@@ -1,9 +1,12 @@
+<hr/>
 <h1 align="center">Ziad Elnagar</h1>
 <h3 align="center">A digital alchemist, transforming raw ideas into immersive experiences.</h3>
-<br>
+<hr/>
+<hr/>
 <h2 align="center">👨‍💻 Portfolio</h2>
 <h3 align="center">https://ziadelnagar-portfolio.vercel.app/</h3>
-<br>
+<hr/>
+<hr/>
 <h2 align="center">📫 Contact</h2>
 <p align="center"> 
   <a href="mailto:ziadelnagar.official@gmail.com" target="_blank">
@@ -13,11 +16,9 @@
   <a href="https://www.linkedin.com/in/ziadelnagar/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="Ziad Elnagar on linkedin"/>
   </a>
-  &nbsp;
-
-
+<hr/>
+<hr/>
 <p align="center">
-  &nbsp;
 <h2 align="center">Skills and Tools</h2>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -43,3 +44,4 @@
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
   </a>
 </p>
+<hr/>

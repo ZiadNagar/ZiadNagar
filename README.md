@@ -43,6 +43,3 @@
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
   </a>
 </p>
-
-<p align="center">&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadnagar&count_private=true&show_icons=true&theme=github_dark&locale=en&hide_border=true" alt="ziadnagar" /></p>

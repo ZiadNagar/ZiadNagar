@@ -1,4 +1,3 @@
-<br>
 <h1 align="center">Ziad Elnagar</h1>
 <h3 align="center">A digital alchemist, transforming raw ideas into immersive experiences.</h3>
 <br>

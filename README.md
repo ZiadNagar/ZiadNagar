@@ -1,6 +1,9 @@
 <hr/>
 <h1 align="center">Ziad Elnagar</h1>
-<h3 align="center">A digital alchemist, transforming raw ideas into immersive experiences.</h3>
+<h3 align="center">Frontend Developer</h3>
+<p align="center">
+  I'm a Creative Frontend Developer passionate about building responsive, high-performance web applications that deliver seamless user experiences. With expertise in React.js, GSAP animations, and modern web technologies, I transform designs into functional, scalable, and visually engaging digital solutions.
+</p>
 
 <hr/>
 <h2 align="center">👨‍💻 Portfolio</h2>

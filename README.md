@@ -1,26 +1,15 @@
-<!-- Header Section -->
 <div align="center">
   <img height="80" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWQwOTlzMjZvdWRkaHhpZG95bWNoa2h5dHY3a201anhwajZya2xqbSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/lqMD8PCDb2FmJSJQjI/giphy.gif" alt="Hello" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&section=header&reversal=false&text=Ziad%20Elnagar&fontSize=40&fontColor=FFFFFF&animation=fadeIn&textBg=false&theme=tokyonight" alt="Ziad Elnagar" />
 </div>
-
-<!-- Subtitle Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&reversal=false&text=Creative%20Developer%20%7C%20Music%20Producer&fontSize=20&fontColor=C0D2F0&fontAlign=20&fontAlignY=50" alt="Creative Developer | Music Producer" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&reversal=false&text=Creative%20Developer%20%7C%20Music%20Producer&fontSize=20&fontColor=C0D2F0&fontAlign=20&fontAlignY=50" alt="Creative Developer | Music Producer" />
 <img align="right" height="235" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM0czJ5ejI3NTQ5OXY1N245OXg4YjVvbGxscHkzZ2Z4YnltN3Z3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2dgFERtMWx4H5Mzkzd/giphy.gif" alt="Inspire be inspired" />
 
 > Art is my language. From the soul of a track to the rhythm of code, I don't just build, I compose; bridging logic and emotion to create work that truly resonates.
 I view the web as a canvas for shared human experiences. My transition into development wasn't about leaving art behind; it was about finding a new instrument. Whether I am layering a synth or a React component, the goal is the same: Connection.
 
-<div align="left">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=33&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FThe%20Studio%20Toolkit&fontSize=20&fontColor=C0D2F0&fontAlign=11&fontAlignY=50" alt="The Studio Toolkit" />
-</div>
-
-<!-- Studio Toolkit Section -->
-<p align="left">
-  <img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajEwOWh4bHFsdGoxMGNrcmViNHQ5cGJ4OGU5M3Z6amlsamJkOWpjbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KYjKdhyDFY1vkKwak2/giphy.gif" alt="Studio monitors" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=33&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FThe%20Studio%20Toolkit&fontSize=20&fontColor=C0D2F0&fontAlign=11&fontAlignY=50" alt="The Studio Toolkit" />
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajEwOWh4bHFsdGoxMGNrcmViNHQ5cGJ4OGU5M3Z6amlsamJkOWpjbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KYjKdhyDFY1vkKwak2/giphy.gif" alt="Studio monitors" />
 
 _In my world, technologies are instruments. Some provide the foundation; others provide the soul._
 <h4>
@@ -59,9 +48,7 @@ _In my world, technologies are instruments. Some provide the foundation; others 
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ableton" height="50" alt="Ableton Live" />
 </p>
-<p align="left">
-  <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjNpano1bGJkYW5zOXIwbXVzMjJpdWduOHIwYWN2dHZraXg2bHgyZCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/4wnGchH1U8wsD7ExTn/giphy.gif" alt="DJ mixer" />
-</p>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjNpano1bGJkYW5zOXIwbXVzMjJpdWduOHIwYWN2dHZraXg2bHgyZCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/4wnGchH1U8wsD7ExTn/giphy.gif" alt="DJ mixer" />
 <h4>
 	🏗️ The Backline (Tools & Ecosystem)
 </h4>
@@ -78,18 +65,9 @@ _In my world, technologies are instruments. Some provide the foundation; others 
   <img width="8" />
   <img src="https://cdn.simpleicons.org/sourcetree/0052CC" height="50" alt="Sourcetree" />
 </p>
-<br />
-
-
-<br />
-
-<!-- Music Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header&reversal=false&text=%F0%9F%8E%99%EF%B8%8F%20Off%20the%20Clock&fontSize=20&fontColor=C0D2F0&fontAlign=9&fontAlignY=50" alt="Off the Clock" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header&reversal=false&text=%F0%9F%8E%99%EF%B8%8F%20Off%20the%20Clock&fontSize=20&fontColor=C0D2F0&fontAlign=9&fontAlignY=50" alt="Off the Clock" />
 
 _When I'm not in the editor, I'm usually in the studio.</br>My music is a reflection of the same curiosity I bring to my code. You can find my frequencies here:_
-	
 <p align="left">
   <a href="https://open.spotify.com/artist/3o4OXXvSzxsUrnvnnXeXnP?si=N-2CRM_lRkSYcBNvpGLXxQ" target="_blank">
 	  <img width="8" />
@@ -101,12 +79,10 @@ _When I'm not in the editor, I'm usually in the studio.</br>My music is a reflec
 	<img src="https://cdn.simpleicons.org/bandcamp/629AA9" height="50" alt="Bandcamp" />
   </a>
 </p>
-</br>
 
 _I'm always open to talking about **creative development**,</br>**music production**, or the **future of the web**. You can **contact** me here:_
-<p alig="left">
   <a href="mailto:ziadelnagar.official@gmail.com" target="_blank">
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
+  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ziadelnagar" target="_blank">
 	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
@@ -114,8 +90,7 @@ _I'm always open to talking about **creative development**,</br>**music producti
   <a href="https://dev.to/ziadelnagar" target="_blank">
 	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="40" height="40" alt="Dev.to" />
   </a>
-</p>
 
 <p align="center">
-  <img height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW53aXZrdDV2bHNsb2tmN3g1ZmxxN3ZxcGgxejB3OWw5YzdnYnpvciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/SthafGNPYTbBbPdEXT/giphy.gif">
+  <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW53aXZrdDV2bHNsb2tmN3g1ZmxxN3ZxcGgxejB3OWw5YzdnYnpvciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/SthafGNPYTbBbPdEXT/giphy.gif">
 </p>

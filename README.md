@@ -90,7 +90,8 @@ _I'm always open to talking about **creative development**,</br>**music producti
   <a href="https://dev.to/ziadelnagar" target="_blank">
 	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="40" height="40" alt="Dev.to" />
   </a>
-
-<p align="center">
+  </br>
+  </br>
+  <p align="center">
   <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW53aXZrdDV2bHNsb2tmN3g1ZmxxN3ZxcGgxejB3OWw5YzdnYnpvciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/SthafGNPYTbBbPdEXT/giphy.gif">
 </p>

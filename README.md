@@ -1,7 +1,6 @@
 <div align="center">
   <img height="80" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWQwOTlzMjZvdWRkaHhpZG95bWNoa2h5dHY3a201anhwajZya2xqbSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/lqMD8PCDb2FmJSJQjI/giphy.gif" alt="Hello" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=Ziad%20Elnagar&height=45&fontSize=40&fontColor=FFFFFF&animation=fadeIn&theme=tokyonight" alt="Ziad Elnagar" />
-<h1><span style="color:blue">Ziad Elnagar</span></h1>
+<h1>Ziad Elnagar</h1>
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&reversal=false&text=Creative%20Developer%20%7C%20Music%20Producer&fontSize=20&fontColor=C0D2F0&fontAlign=20&fontAlignY=50" alt="Creative Developer | Music Producer" />

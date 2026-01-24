@@ -3,13 +3,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=Ziad%20Elnagar&height=45&fontSize=40&fontColor=FFFFFF&animation=fadeIn&theme=tokyonight" alt="Ziad Elnagar" />
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&reversal=false&text=Creative%20Developer%20%7C%20Music%20Producer&fontSize=20&fontColor=C0D2F0&fontAlign=20&fontAlignY=50" alt="Creative Developer | Music Producer" />
-<img align="right" height="235" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM0czJ5ejI3NTQ5OXY1N245OXg4YjVvbGxscHkzZ2Z4YnltN3Z3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2dgFERtMWx4H5Mzkzd/giphy.gif" alt="Inspire be inspired" />
 
 > Art is my language. From the soul of a track to the rhythm of code, I don't just build, I compose; bridging logic and emotion to create work that truly resonates.
 I view the web as a canvas for shared human experiences. My transition into development wasn't about leaving art behind; it was about finding a new instrument. Whether I am layering a synth or a React component, the goal is the same: Connection.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=33&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FThe%20Studio%20Toolkit&fontSize=20&fontColor=C0D2F0&fontAlign=11&fontAlignY=50" alt="The Studio Toolkit" />
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajEwOWh4bHFsdGoxMGNrcmViNHQ5cGJ4OGU5M3Z6amlsamJkOWpjbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KYjKdhyDFY1vkKwak2/giphy.gif" alt="Studio monitors" />
 
 _In my world, technologies are instruments. Some provide the foundation; others provide the soul._
 <h4>
@@ -48,7 +46,6 @@ _In my world, technologies are instruments. Some provide the foundation; others 
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ableton" height="50" alt="Ableton Live" />
 </p>
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjNpano1bGJkYW5zOXIwbXVzMjJpdWduOHIwYWN2dHZraXg2bHgyZCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/4wnGchH1U8wsD7ExTn/giphy.gif" alt="DJ mixer" />
 <h4>
 	🏗️ The Backline (Tools & Ecosystem)
 </h4>

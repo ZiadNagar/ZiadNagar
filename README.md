@@ -62,8 +62,7 @@ _In my world, technologies are instruments. Some provide the foundation; others 
   <img width="8" />
   <img src="https://cdn.simpleicons.org/sourcetree/0052CC" height="50" alt="Sourcetree" />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header&reversal=false&text=%F0%9F%8E%99%EF%B8%8F%20Off%20the%20Clock&fontSize=20&fontColor=C0D2F0&fontAlign=9&fontAlignY=50" alt="Off the Clock" />
-
+<h3>🎧 Off the clock</h3>
 _When I'm not in the editor, I'm usually in the studio.</br>My music is a reflection of the same curiosity I bring to my code. You can find my frequencies here:_
 <p align="left">
   <a href="https://open.spotify.com/artist/3o4OXXvSzxsUrnvnnXeXnP?si=N-2CRM_lRkSYcBNvpGLXxQ" target="_blank">

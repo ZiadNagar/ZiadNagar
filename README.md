@@ -66,26 +66,25 @@ _In my world, technologies are instruments. Some provide the foundation; others 
 _When I'm not in the editor, I'm usually in the studio.</br>My music is a reflection of the same curiosity I bring to my code. You can find my frequencies here:_
 <p align="left">
   <a href="https://open.spotify.com/artist/3o4OXXvSzxsUrnvnnXeXnP?si=N-2CRM_lRkSYcBNvpGLXxQ" target="_blank">
-	  <img width="8" />
 	  <img src="https://cdn.simpleicons.org/spotify/1DB954" height="50" alt="Spotify" />
   </a>
-  &nbsp;
   <a href="https://zezo.bandcamp.com/" target="_blank">
-	<img width="8" />
 	<img src="https://cdn.simpleicons.org/bandcamp/629AA9" height="50" alt="Bandcamp" />
   </a>
 </p>
 
 _I'm always open to talking about **creative development**,</br>**music production**, or the **future of the web**. You can **contact** me here:_
+<p align="left">
   <a href="mailto:ziadelnagar.official@gmail.com" target="_blank">
-  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
+	  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ziadelnagar" target="_blank">
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+	  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://dev.to/ziadelnagar" target="_blank">
 	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="40" height="40" alt="Dev.to" />
   </a>
+</p>
   </br>
   </br>
   <p align="center">

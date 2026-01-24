@@ -1,14 +1,13 @@
 <div align="center">
   <img height="80" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWQwOTlzMjZvdWRkaHhpZG95bWNoa2h5dHY3a201anhwajZya2xqbSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/lqMD8PCDb2FmJSJQjI/giphy.gif" alt="Hello" />
-<h1>Ziad Elnagar</h1>
-
+<h2>Ziad Elnagar</h2>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&reversal=false&text=Creative%20Developer%20%7C%20Music%20Producer&fontSize=20&fontColor=C0D2F0&fontAlign=20&fontAlignY=50" alt="Creative Developer | Music Producer" />
+<h3>Creative Developer | Music Producer</h3>
 
 > Art is my language. From the soul of a track to the rhythm of code, I don't just build, I compose; bridging logic and emotion to create work that truly resonates.
 I view the web as a canvas for shared human experiences. My transition into development wasn't about leaving art behind; it was about finding a new instrument. Whether I am layering a synth or a React component, the goal is the same: Connection.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=33&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FThe%20Studio%20Toolkit&fontSize=20&fontColor=C0D2F0&fontAlign=11&fontAlignY=50" alt="The Studio Toolkit" />
+<h3>Studio Toolkit</h3>
 
 _In my world, technologies are instruments. Some provide the foundation; others provide the soul._
 <h4>
